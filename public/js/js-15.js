@@ -6,3 +6,4 @@ string = '100'
 result = number + string
 createEmptyMaze()
 showMessage(result)
+

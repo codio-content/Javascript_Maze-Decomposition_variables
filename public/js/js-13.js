@@ -1,7 +1,7 @@
 
 // More string variable arithmetic 
 
-firstName = 'Mary'
+firstName = 'Michael'
 lastName = 'Smith'
 fullName = firstName + ' ' + lastName
 createEmptyMaze()
