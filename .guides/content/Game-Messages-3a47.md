@@ -11,4 +11,6 @@ Don't forget, when you assign a string to a variable, you have to enclose the st
 - `string = 'Hello World'` is valid.
 - `string = Hello World` is wrong and will generate an error.
 
+## Play
+Play around with the string in the code on the left. You will probably get a few syntax errors, which is fine. Just correct them and you will learn what works and what doesn't.
 

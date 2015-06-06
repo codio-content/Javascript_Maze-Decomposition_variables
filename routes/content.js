@@ -15,6 +15,11 @@ router.get('/js-1', function(req, res) {
   res.render('js-1');
 }); 
 
+// Create Empty Maze challenge
+router.get('/js-1a', function(req, res) {
+  res.render('js-1a');
+});
+
 // Width & Height Javascript using variables
 router.get('/js-2', function(req, res) {
   res.render('js-2');
@@ -39,6 +44,12 @@ router.get('/js-5', function(req, res) {
 router.get('/js-5a', function(req, res) {
   res.render('js-5a');
 }); 
+
+// One variable for all
+router.get('/js-5b', function(req, res) {
+  res.render('js-5b');
+}); 
+
 
 // Variable arithmetic
 router.get('/js-6', function(req, res) {

@@ -23,6 +23,7 @@ app.use(function (req, res, next) {
     res.setHeader("Expires", new Date(Date.now()).toUTCString());
     next();
 });
+
 app.use(favicon(__dirname + '/public/favicon.ico'));
 app.use(morgan('dev'));
 app.use(bodyParser.json());

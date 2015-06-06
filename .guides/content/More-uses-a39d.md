@@ -1,19 +1,29 @@
-We can use variables for creating our monsters, walls and energy stores.
+|||challenge
+First create an empty maze.
 
-In the previous Unit we used the following functions
+Then use a single variable, which you can call anything you like, and assign it a value of 3. 
+
+Use this variable as the argument in each of the following functions to generate 3 monsters, 3 walls and 3 energies. Here are the commands you will need.
 
 - `addRandomMonsters()`
 - `addRandomWalls()`
 - `addRandomEnergies()`
-- `addPlayer()`
 
-All of these functions, except `addPlayer()` take one single argument, which is the number of entities to add. 
+Add a player as well using `addPlayer()`
 
-|||challenge
-Your job is to use a single variable, which you can call anything you like and assign it a value of 3. Then use this variable in all of the functions to generate the same number of Monsters, Walls and Energies.
-
-Add a player as well. Don't forget to create an empty maze as the first instruction.
 |||
 
 
+|||guidance
+## Solution
 
+```javascript
+num = 3
+createEmptyMaze()
+addRandomMonsters(num)
+addRandomWalls(num)
+addRandomEnergies(num)
+addPlayer()
+```
+
+|||

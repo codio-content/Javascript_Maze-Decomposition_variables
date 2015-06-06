@@ -1,4 +1,4 @@
-Next, we look at the simple example but this time using a variable.
+Next, we look at the same simple example but this time we use a variable.
 
 We already used this way if passing a variable as an argument to function in our earlier examples with numbers, so hopefully this makes perfect sense.
 

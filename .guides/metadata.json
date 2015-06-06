@@ -9,7 +9,7 @@
      "action": "close"
     }
    ],
-   "layout": "3-cell-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Variables-b9d6.md"
@@ -41,7 +41,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "3-cell",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Sizing-our-Maze-9c09.md"
@@ -50,6 +50,7 @@
    "id": "bae91d9c-9474-89fd-a18d-1e8c949afe93",
    "title": "Challenge",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-bae9.md"
@@ -81,7 +82,23 @@
   {
    "id": "d8646bd9-e8c6-46bf-e01c-77ee9cc3fb7",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-1a.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-1a",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-d864.md"
@@ -205,7 +222,23 @@
   {
    "id": "ddd5cf7e-d92b-4b8f-cd31-a5d744d5ff26",
    "title": "Syntax Errors",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-5b.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-5b",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Syntax-Errors-ddd5.md"

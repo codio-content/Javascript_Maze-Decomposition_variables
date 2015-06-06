@@ -3,6 +3,7 @@
 
 createEmptyMaze(16, 8)
 numMonsters = 3
+
 addRandomMonsters ( numMonsters )
 addRandomEnergies ( numMonsters * 2 )
 addRandomWalls ( numMonsters - 1 )

@@ -1,2 +1,2 @@
 
-createEmptyMaze(14, 6)
+createEmptyMaze(12, 7)
