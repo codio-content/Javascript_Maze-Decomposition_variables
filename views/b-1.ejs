@@ -13,7 +13,7 @@
       
         $.getScript( '/blockly/b-1/blockly-gen.js' )
           .done(function( script, textStatus ) {
-            createRandomMaze(width, height)  
+            createEmptyMaze(width, height)  
           })
           .fail(function( jqxhr, settings, exception ) {
             console.log('failed to load blockly gen js file')
