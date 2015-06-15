@@ -7,6 +7,6 @@ If you look at the code on the left, we have two issues to sort out.
 
 When it looks right, press the button below.
 
-{Check It!! | custom}(test-concat-js)
+{Check It!! | custom}(js-14)
 
 |||
