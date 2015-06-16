@@ -4,6 +4,7 @@ On the left hand side, we have some code but the maze is not initialising proper
 
 Your job is to fix the code on the left so the maze displays correctly. You must use variables and not insert values into the function call arguments.
 
+{Check it!!|custom}(js-3)
 |||
 
 |||guidance

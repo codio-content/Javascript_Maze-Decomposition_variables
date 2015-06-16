@@ -6,3 +6,7 @@ When you think you have it working, press the button below.
 {Check it!!|custom}(b-1)
 |||
 
+|||guidance
+## Solution
+
+![](.guides/img/challenge-4.png)

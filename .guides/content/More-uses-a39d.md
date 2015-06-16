@@ -11,6 +11,8 @@ Use this variable as the argument in each of the following functions to generate
 
 Add a player as well using `addPlayer()`
 
+{Check it!!|custom}(js-4)
+
 |||
 
 

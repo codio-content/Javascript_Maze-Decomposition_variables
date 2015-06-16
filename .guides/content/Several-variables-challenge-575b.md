@@ -11,6 +11,8 @@ This time we want you to do the following
 
 Test it all out and press the button below once you have it working.
 
+{Check it!!|custom}(js-5)
+
 |||
 
 
