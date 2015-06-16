@@ -16,11 +16,11 @@ When it looks right, press the button below.
 ## Solution
 
 ```javascript
-str1 = 'Mary '
-str2 = 'had '
-str3 = 'a '
-str4 = 'little '
+str1 = 'Mary'
+str2 = 'had'
+str3 = 'a'
+str4 = 'little'
 str5 = 'lamb'
 createEmptyMaze()
-showMessage( str1 + str2 + str3 + str4 + str5 )
+showMessage( str1 + ' ' + str2 + ' ' + str3 + ' ' + str4 + ' ' + str5 )
 ```
