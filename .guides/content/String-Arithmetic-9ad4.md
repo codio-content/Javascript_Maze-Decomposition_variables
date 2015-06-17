@@ -9,7 +9,7 @@ In this case, `myOtherVariable` will be 110.
 
 With strings, we can do something similar. Take a look at the code on the left hand side.
 
-Here we are creating 2 variables, `firstName` and `LastName`. We are then adding these together to give another string `fullName` with the other variables joined together.
+Here we are creating 2 variables, `firstName` and `LastName`. We are then adding these together within the `showMessage()` function call.
 
 ## Play 
 Play with the code on the left and do your own experiments.

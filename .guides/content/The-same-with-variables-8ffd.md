@@ -5,4 +5,4 @@ If you look at the code on the left, you can see we have taken a different appro
 
 ## Experiment
 - Try changing the width and height variable values
-- Try renaming `width` to another name then change the variable name in the brackets to this new name. See what happens if you don't change it to match.
+- Try renaming `width` to another name then change the variable name in the brackets to this new name. See what happens if the variable names don't match.

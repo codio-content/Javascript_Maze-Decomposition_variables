@@ -5,6 +5,8 @@ We already know that the maze uses a coordinate system. We can specify the width
 - width
 - height
 
+The width and height of our game is measured in 'block' units. Each game element (walls, monsters, energies etc.) occupies one block unit. So when we say `createEmptyMaze(14, 8)` it is 14 blocks wide and 8 high.
+
 On the left, we've got 3 blocks available to us
 
 - var (which helps you create a variable)
