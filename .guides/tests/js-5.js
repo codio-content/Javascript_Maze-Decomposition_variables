@@ -3,7 +3,7 @@ $.getScript(window.location.origin + '/public/js/' + window.testEnv.cmd + '.js?_
 .done(function (script, status) {
   console.log(_commands);
   
-  if(mazeWidth == 10 && mazeHeight == 8 && getWallCount() == 3 && getMonsterCount() == 2 && getEnergyCount() == 3 && player) {
+  if(mazeWidth == 10 && mazeHeight == 8 && getWallCount() == getEnergyCount() && getMonsterCount() > 0 && player) {
     
     codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.SUCCESS, 'Well done!');
   }
