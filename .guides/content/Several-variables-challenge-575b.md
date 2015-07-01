@@ -1,11 +1,11 @@
 |||challenge
 This time we want you to do the following
 
-1. Create variables for the maze width and maze height and assign them values of 10 and 8.
+1. Create variables for called `width` to store the maze width and `height` to store the maze height and assign them values of 10 and 8.
 1. Create an empty maze with these 2 variables.
-1. Create a variable for the number of monsters.
+1. Create a variable called `numMonsters` to store the number of monsters.
 1. Create the monsters using this variable as the argument.
-1. Create another single variable and assign it a value for the number of energies and walls you want to create.
+1. Create another variable called `numOthers` and assign it a value for the number of energies and walls you want to create.
 1. Now create the energies and walls using this one variable.
 1. Add a player.
 
