@@ -13,6 +13,15 @@
       
         $.getScript( '/blockly/b-1/blockly-gen.js' )
           .done(function( script, textStatus ) {
+
+            if(width && width > 20) {
+              width == 20;
+            }
+
+            if(height && height > 20) {
+              height == 20;
+            }
+                    
             createEmptyMaze(width, height)  
           })
           .fail(function( jqxhr, settings, exception ) {
