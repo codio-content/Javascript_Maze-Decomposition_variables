@@ -1,20 +1,5 @@
-|||challenge
-First create an empty maze.
 
-Then create a single variable called `num` and assign it a value of 3. 
-
-Use this variable as the argument in each of the following functions to generate 3 monsters, 3 walls and 3 energies. Here are the commands you will need.
-
-- `addRandomMonsters()`
-- `addRandomWalls()`
-- `addRandomEnergies()`
-
-Add a player as well using `addPlayer()`
-
-{Check it!!|custom}(js-4)
-
-|||
-
+{Check It!|assessment}(test-978429840)
 
 |||guidance
 ## Solution

@@ -1,17 +1,27 @@
 
-$.getScript(window.location.origin + '/public/js/' + window.testEnv.cmd + '.js?_=' + Date.now())
-.done(function (script, status) {
-  console.log(_commands);
-  
+var fs = require('fs');
+
+var mazeWidth = 0;
+var mazeHeight = 0;
+
+function createEmptyMaze(w, h) {
+  mazeWidth = w;
+  mazeHeight = h;
+}
+ 
+try {
+  var data = fs.readFileSync('/home/codio/workspace/public/js/js-3.js', 'utf8');
+  eval(data);
+
   if(mazeWidth == 10 && mazeHeight == 14) {
-    
-    codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.SUCCESS, 'Well done!');
+    process.stdout.write('Well done!');  
+    process.exit(0);
   }
-  else {
-    codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.FAILURE, 'Not quite right, try again!');
-  }
-})
-.fail(function (jqxhr, settings, exception) {
-  console.log(exception);
-  codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.INVALID, exception.message); 
-});
+
+}
+catch(e) {
+//   console.log(e)
+}
+
+process.stdout.write('Not quite right, try again!');  
+process.exit(1);

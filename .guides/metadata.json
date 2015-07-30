@@ -12,7 +12,9 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Variables-b9d6.md"
+   "content-file": ".guides/content/Variables-b9d6.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "92f3d431-bb7b-6b3a-2280-f080607de5e0",
@@ -20,7 +22,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Definition-of-a-Variable-92f3.md"
+   "content-file": ".guides/content/Definition-of-a-Variable-92f3.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "9c09a5b8-affd-fa4d-cb80-b5dc84843ac0",
@@ -44,7 +48,9 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Sizing-our-Maze-9c09.md"
+   "content-file": ".guides/content/Sizing-our-Maze-9c09.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "bae91d9c-9474-89fd-a18d-1e8c949afe93",
@@ -53,7 +59,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge-bae9.md"
+   "content-file": ".guides/content/Challenge-bae9.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "2f0f7ca7-46b4-bba3-457d-3d55aba4a957",
@@ -77,7 +85,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Doing-it-in-Javascript-2f0f.md"
+   "content-file": ".guides/content/Doing-it-in-Javascript-2f0f.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "d8646bd9-e8c6-46bf-e01c-77ee9cc3fb7",
@@ -101,7 +111,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge-d864.md"
+   "content-file": ".guides/content/Challenge-d864.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "8ffd2e65-b503-a60d-1962-e1cb8e35d6e4",
@@ -125,7 +137,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-same-with-variables-8ffd.md"
+   "content-file": ".guides/content/The-same-with-variables-8ffd.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "5378eb91-f544-3c06-b20e-668728fe2d59",
@@ -145,7 +159,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge-5378.md"
+   "content-file": ".guides/content/Challenge-5378.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "a39d406e-f047-ba3b-6974-3b14f79bd6da",
@@ -169,7 +185,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/More-uses-a39d.md"
+   "content-file": ".guides/content/More-uses-a39d.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "575b7731-b516-f43e-1875-c378d44aa992",
@@ -193,7 +211,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Several-variables-challenge-575b.md"
+   "content-file": ".guides/content/Several-variables-challenge-575b.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "c10f4149-387b-f8d0-d8e9-2e91e3fba4a9",
@@ -217,7 +237,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/One-variable-for-all-things-c10f.md"
+   "content-file": ".guides/content/One-variable-for-all-things-c10f.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "ddd5cf7e-d92b-4b8f-cd31-a5d744d5ff26",
@@ -241,7 +263,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Syntax-Errors-ddd5.md"
+   "content-file": ".guides/content/Syntax-Errors-ddd5.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "bd69434e-73a0-8144-4307-da92e92c7509",
@@ -265,7 +289,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Variable-arithmetic-bd69.md"
+   "content-file": ".guides/content/Variable-arithmetic-bd69.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "92affa18-2eaa-cdda-1c82-47e69fc7384",
@@ -289,7 +315,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Subtraction-92af.md"
+   "content-file": ".guides/content/Subtraction-92af.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "5792bc62-d633-2fbd-6c24-5c9a3ec50e2",
@@ -313,7 +341,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Multiplication-5792.md"
+   "content-file": ".guides/content/Multiplication-5792.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "63ad3792-e828-c079-9dc-997cddfe15d",
@@ -337,7 +367,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Arithmetic-in-the-function-call-63ad.md"
+   "content-file": ".guides/content/Arithmetic-in-the-function-call-63ad.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "566894a7-a187-7ae7-25b2-4cf3075716",
@@ -361,7 +393,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Strings-5668.md"
+   "content-file": ".guides/content/Strings-5668.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "3a479373-dd72-7b8c-9b14-3c95f0b09c4a",
@@ -369,7 +403,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Game-Messages-3a47.md"
+   "content-file": ".guides/content/Game-Messages-3a47.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "a0ce9115-4143-84b4-4f4c-ff2a35dc92bb",
@@ -393,7 +429,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Using-a-variable-a0ce.md"
+   "content-file": ".guides/content/Using-a-variable-a0ce.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "9ad4a556-b98c-2fa4-8384-a7d3f2d896fb",
@@ -417,7 +455,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/String-Arithmetic-9ad4.md"
+   "content-file": ".guides/content/String-Arithmetic-9ad4.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "25134b12-37ef-7759-ada1-c2035f0ee164",
@@ -441,7 +481,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/More-string-arithmetic-2513.md"
+   "content-file": ".guides/content/More-string-arithmetic-2513.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "f49fd00f-c3be-48e1-c88-a67dbb2888fd",
@@ -465,7 +507,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/String-Challenge-f49f.md"
+   "content-file": ".guides/content/String-Challenge-f49f.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "ea7cb52a-948e-dadb-14f8-ec682d9934e",
@@ -489,7 +533,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Joining-a-number-and-a-string-ea7c.md"
+   "content-file": ".guides/content/Joining-a-number-and-a-string-ea7c.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "1c0acd22-7852-57ab-8e94-d3b6e36dc114",
@@ -497,7 +543,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/All-done-1c0a.md"
+   "content-file": ".guides/content/All-done-1c0a.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "paper",

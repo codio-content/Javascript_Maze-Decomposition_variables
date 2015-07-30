@@ -1,28 +1,66 @@
 
-if(!window.numMonsters) {
-  Object.defineProperty(window, "numMonsters", {
-    get : function () {
-      return 4;
-    },
-    set : function (val) {
-    }
-  });
+var fs = require('fs');
+
+global.width = 0;
+global.height = 0;
+var monsters = 0
+var energies = 0;
+var walls = 0;
+var player = false;
+var maze = false;
+
+Object.defineProperty(global, "numMonsters", {
+  get : function () {
+    return 4;
+  },
+  set : function (val) {
+  }
+});
+
+Object.defineProperty(global, "numOthers", {
+  get : function () {
+    return 2;
+  },
+  set : function (val) {
+  }
+});
+
+function createEmptyMaze(w, h) {
+  maze = true;
 }
 
-
-if(!window.numOthers) {
-  Object.defineProperty(window, "numOthers", {
-    get : function () {
-      return 2;
-    },
-    set : function (val) {
-    }
-  });
+function addRandomMonsters(n) {
+  monsters = n;
 }
 
+function addRandomEnergies (n) {
+  energies = n;
+}
 
-// reset test
-resetMaze();
+function addRandomWalls(n) {
+  walls = n;
+}
+
+function addPlayer() {
+  player = true;
+}
+
+try {
+  var data = fs.readFileSync('/home/codio/workspace/public/js/js-5.js', 'utf8');
+  eval(data);
+
+  if(global.width == 10 && global.height == 8 && walls == 2 && energies == 2 && monsters == 4 && player && maze) {
+    process.stdout.write('Well done!');  
+    process.exit(0);
+  }
+
+}
+catch(e) {
+  console.log(e)
+}
+
+process.stdout.write('Not quite right, try again!');  
+process.exit(1);
 
 $.getScript(window.location.origin + '/public/js/' + window.testEnv.cmd + '.js?_=' + Date.now())
 .done(function (script, status) {

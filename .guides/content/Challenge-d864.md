@@ -1,14 +1,10 @@
-|||challenge
-Create a game of width 18 and height 10.
 
-When you have it displaying properly in the game, press the button below.
+{Check It!|assessment}(test-2843516744)
 
-{Check it!!|custom}(js-1a)
-|||
 
 |||guidance
 ## Solution
 
 ```javascript
-createEmptyMaze(18, 10)
+createEmptyMaze(8, 6)
 ```
