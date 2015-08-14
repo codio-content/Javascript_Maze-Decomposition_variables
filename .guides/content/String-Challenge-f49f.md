@@ -13,3 +13,5 @@ str5 = 'lamb'
 createEmptyMaze()
 showMessage( str1 + ' ' + str2 + ' ' + str3 + ' ' + str4 + ' ' + str5 )
 ```
+
+|||

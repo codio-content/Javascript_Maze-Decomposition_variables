@@ -7,3 +7,5 @@ The problem here is that the command `createEmptyMaze(width, height)` is using a
 
 - You either have to change `mazeWidth = 10` to `width = 10`
 - Or change `createEmptyMaze(width, height)` to `createEmptyMaze(mazeWidth, height)`
+
+|||
