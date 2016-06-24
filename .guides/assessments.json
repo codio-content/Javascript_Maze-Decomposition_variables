@@ -1,0 +1,88 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1003964149",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Maze dimensions with variables",
+   "instructions": "On the left hand side, we have some code but the maze is not initialising properly.\n\nYour job is to fix the code on the left so the maze displays correctly. You must use variables and not insert values into the function call arguments.",
+   "command": "node /home/codio/workspace/.guides/tests/js-3.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1909446201",
+  "source": {
+   "name": "Several variables challenge",
+   "showName": false,
+   "instructions": "This time we want you to do the following\n\n1. Create variables for called `width` to store the maze width and `height` to store the maze height and assign them values of 10 and 8.\n1. Create an empty maze with these 2 variables.\n1. Create a variable called `numMonsters` to store the number of monsters. Assign the value of 2.\n1. Create the monsters using this variable as the argument.\n1. Create another variable called `numOthers` and assign it a value of 3 for the number of energies and walls you want to create.\n1. Now create the energies and walls using this one variable.\n1. Add a player.\n\nTest it all out and press the button below once you have it working.",
+   "command": "node /home/codio/workspace/.guides/tests/js-5.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2843516744",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Maze dimensions with Javascript",
+   "instructions": "Create a game of width 8 and height 6.\n\nWhen you have it displaying properly in the game, press the button below.\n",
+   "command": "node /home/codio/workspace/.guides/tests/js-1a.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3632546647",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Maze dimensions with Blockly",
+   "instructions": "Set the maze width to be 8 and height to be 6. Reload the game to see it looks right. \n\nWhen you think you have it working, press the button below.\n",
+   "command": "node /home/codio/workspace/.guides/tests/b-1.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4123807001",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "String concatenation",
+   "instructions": "If you look at the code on the left, we have two issues to sort out.\n\n1. The code has a syntax error, so find it and fix it. Read the error message that pops up. It gives you some clues.\n1. Once you have fixed it, you will see that we need spaces between between the words 'Maryhadalittlelamb'. Modify the code to get the right result.\n\nWhen it looks right, press the button below.\n",
+   "command": "node /home/codio/workspace/.guides/tests/js-14.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-978429840",
+  "source": {
+   "name": "Re-using variables",
+   "showName": false,
+   "instructions": "First create an empty maze.\n\nThen create a single variable called `num` and assign it a value of 3. \n\nUse this variable as the argument in each of the following functions to generate 3 monsters, 3 walls and 3 energies. Here are the commands you will need.\n\n- `addRandomMonsters()`\n- `addRandomWalls()`\n- `addRandomEnergies()`\n\nAdd a player as well using `addPlayer()`",
+   "command": "node /home/codio/workspace/.guides/tests/js-4.js",
+   "points": 1
+  }
+ }
+]
