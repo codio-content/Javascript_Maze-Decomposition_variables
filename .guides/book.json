@@ -1,0 +1,155 @@
+{
+ "name": "Javascript_Maze-Decomposition_variables",
+ "children": [
+  {
+   "title": "Variables",
+   "id": "b9d694e8-9ed0-4657-2f13-7f84efabe08e",
+   "pageId": "b9d694e8-9ed0-4657-2f13-7f84efabe08e",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Definition of a Variable",
+     "id": "92f3d431-bb7b-6b3a-2280-f080607de5e0",
+     "pageId": "92f3d431-bb7b-6b3a-2280-f080607de5e0",
+     "type": "page"
+    },
+    {
+     "title": "Sizing our Maze",
+     "id": "9c09a5b8-affd-fa4d-cb80-b5dc84843ac0",
+     "pageId": "9c09a5b8-affd-fa4d-cb80-b5dc84843ac0",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "bae91d9c-9474-89fd-a18d-1e8c949afe93",
+     "pageId": "bae91d9c-9474-89fd-a18d-1e8c949afe93",
+     "type": "page"
+    },
+    {
+     "title": "Doing it in Javascript",
+     "id": "2f0f7ca7-46b4-bba3-457d-3d55aba4a957",
+     "pageId": "2f0f7ca7-46b4-bba3-457d-3d55aba4a957",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "d8646bd9-e8c6-46bf-e01c-77ee9cc3fb7",
+     "pageId": "d8646bd9-e8c6-46bf-e01c-77ee9cc3fb7",
+     "type": "page"
+    },
+    {
+     "title": "The same with variables",
+     "id": "8ffd2e65-b503-a60d-1962-e1cb8e35d6e4",
+     "pageId": "8ffd2e65-b503-a60d-1962-e1cb8e35d6e4",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "5378eb91-f544-3c06-b20e-668728fe2d59",
+     "pageId": "5378eb91-f544-3c06-b20e-668728fe2d59",
+     "type": "page"
+    },
+    {
+     "title": "More uses",
+     "id": "a39d406e-f047-ba3b-6974-3b14f79bd6da",
+     "pageId": "a39d406e-f047-ba3b-6974-3b14f79bd6da",
+     "type": "page"
+    },
+    {
+     "title": "Several variables challenge",
+     "id": "575b7731-b516-f43e-1875-c378d44aa992",
+     "pageId": "575b7731-b516-f43e-1875-c378d44aa992",
+     "type": "page"
+    },
+    {
+     "title": "One variable for all things",
+     "id": "c10f4149-387b-f8d0-d8e9-2e91e3fba4a9",
+     "pageId": "c10f4149-387b-f8d0-d8e9-2e91e3fba4a9",
+     "type": "page"
+    },
+    {
+     "title": "Syntax Errors",
+     "id": "ddd5cf7e-d92b-4b8f-cd31-a5d744d5ff26",
+     "pageId": "ddd5cf7e-d92b-4b8f-cd31-a5d744d5ff26",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Variable arithmetic",
+   "id": "bd69434e-73a0-8144-4307-da92e92c7509",
+   "pageId": "bd69434e-73a0-8144-4307-da92e92c7509",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Subtraction",
+     "id": "92affa18-2eaa-cdda-1c82-47e69fc7384",
+     "pageId": "92affa18-2eaa-cdda-1c82-47e69fc7384",
+     "type": "page"
+    },
+    {
+     "title": "Multiplication",
+     "id": "5792bc62-d633-2fbd-6c24-5c9a3ec50e2",
+     "pageId": "5792bc62-d633-2fbd-6c24-5c9a3ec50e2",
+     "type": "page"
+    },
+    {
+     "title": "Arithmetic in the function call",
+     "id": "63ad3792-e828-c079-9dc-997cddfe15d",
+     "pageId": "63ad3792-e828-c079-9dc-997cddfe15d",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Strings",
+   "id": "566894a7-a187-7ae7-25b2-4cf3075716",
+   "pageId": "566894a7-a187-7ae7-25b2-4cf3075716",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Game Messages",
+     "id": "3a479373-dd72-7b8c-9b14-3c95f0b09c4a",
+     "pageId": "3a479373-dd72-7b8c-9b14-3c95f0b09c4a",
+     "type": "page"
+    },
+    {
+     "title": "Using a variable",
+     "id": "a0ce9115-4143-84b4-4f4c-ff2a35dc92bb",
+     "pageId": "a0ce9115-4143-84b4-4f4c-ff2a35dc92bb",
+     "type": "page"
+    },
+    {
+     "title": "String Arithmetic",
+     "id": "9ad4a556-b98c-2fa4-8384-a7d3f2d896fb",
+     "pageId": "9ad4a556-b98c-2fa4-8384-a7d3f2d896fb",
+     "type": "page"
+    },
+    {
+     "title": "More string arithmetic",
+     "id": "25134b12-37ef-7759-ada1-c2035f0ee164",
+     "pageId": "25134b12-37ef-7759-ada1-c2035f0ee164",
+     "type": "page"
+    },
+    {
+     "title": "String Challenge",
+     "id": "f49fd00f-c3be-48e1-c88-a67dbb2888fd",
+     "pageId": "f49fd00f-c3be-48e1-c88-a67dbb2888fd",
+     "type": "page"
+    },
+    {
+     "title": "Joining a number and a string",
+     "id": "ea7cb52a-948e-dadb-14f8-ec682d9934e",
+     "pageId": "ea7cb52a-948e-dadb-14f8-ec682d9934e",
+     "type": "page"
+    },
+    {
+     "title": "All done",
+     "id": "1c0acd22-7852-57ab-8e94-d3b6e36dc114",
+     "pageId": "1c0acd22-7852-57ab-8e94-d3b6e36dc114",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
